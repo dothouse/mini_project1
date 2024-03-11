@@ -1,0 +1,5 @@
+,best_param,CV_mean,CV_std,test_score,F1_score,Precision,Recall
+logistic_regression,"{'classifier__C': 1, 'classifier__penalty': 'l2'}",0.9712749736854821,0.01451496739824668,0.9588550983899821,0.9575875521203717,0.9570473830140053,0.9588550983899821
+k_nearest_neighbors,"{'classifier__metric': 'manhattan', 'classifier__n_neighbors': 3, 'classifier__weights': 'uniform'}",0.9722479547458335,0.010436783445236311,0.9877331970355226,0.9876713746645532,0.987633443280845,0.9877331970355226
+decision_tree,"{'classifier__max_depth': 7, 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 2}",0.9459777667301262,0.009273129131376665,0.82813697929977,0.8569687117410444,0.9125690381888671,0.82813697929977
+random_forest,"{'classifier__max_depth': 7, 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 2, 'classifier__n_estimators': 100}",0.9118870345543877,0.0049533171622156615,0.9427549194991055,0.9466852752772444,0.9546875481911611,0.9427549194991055

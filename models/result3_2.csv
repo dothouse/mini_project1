@@ -1,0 +1,2 @@
+,best_param,CV_mean,CV_std,test_score,F1_score,Precision,Recall
+cat,"{'classifier__depth': 7, 'classifier__iterations': 200, 'classifier__learning_rate': 0.1}",0.9854556777623401,0.010114310277335658,0.9891387682085356,0.9891353869834592,0.98913209808955,0.9891387682085356
